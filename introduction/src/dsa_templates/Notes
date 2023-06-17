@@ -1,0 +1,10 @@
+
+1. given 4 no.s a,b,c and d and you have to find min value of |x-a|+|x-b|+|x-c|+|x-d|.
+  	The function is minimum for range [b,c] (median) considering a, b, c, d non-decreasing.
+  	ex : [1, 1, 1, 1000] -> x = 1; It looks like average value will give the correct result.
+  	But actually median does.
+
+
+
+
+
